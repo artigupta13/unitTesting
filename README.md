@@ -11,5 +11,5 @@ $ coverage run -m unittest test.py
 $ coverage html
 
  go to cd htmlcov/
- 
+
  $ open index.html
